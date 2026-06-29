@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/105
+seq: 105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十五兩為法置錢一千八兩為實以法除之得四兩四錢八分為線價又以一兩六錢除得二兩八錢為綿價二兩除得二兩二錢四分為絲價永樂大典卷之一萬六千三百四十三
+  hash: sha256:abfc73ee588ce8eb9c6c2ab8bbc90ac06446bc18002b6b1a4f8bb305163a0f35
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:706c1b0e20554590e7ea96af36fcc89058afbfcf7b09f1254c3a0dcdbf4e5ae4

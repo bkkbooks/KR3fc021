@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/61
+seq: 61
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不盡二千一百與法求等得三百俱約之為九分日之七次以下法四萬一千四百除寄石行箭日實六百萬日得一百四十四日為造箭一百萬隻日數不盡三萬六千四百日與法四萬一千四百求等得二百俱以約之得二百七分日之一百八十二為造箭日分合問
+  hash: sha256:84e77db323e41252b1f9cd4004a9d0f1ab4fee758aa3fb6b0f0e088dbe7b8094
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:9e29cbcbda663943742df6ffcfed72066f9ce44c90495c3259429631faefef97

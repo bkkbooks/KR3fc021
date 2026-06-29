@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百六十貫八百三十二文得四萬八千二百四十九貫六百文為實實如法而一得一百二十貫文為原本
+  hash: sha256:504243a651abdd378f860d914dde5353c1875b4b55751129acddcf7f324b305d
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:bcf1df4d1641a5d5225560b4a70b423df6d01a71c37abab79702b834e18c296b

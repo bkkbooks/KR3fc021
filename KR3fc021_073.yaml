@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 楊輝詳解算法錢一十八貫七百文九十八陌欲展七十七陌官省問得幾何答曰二十三貫八百文解題即粟米換易之問蓋錢陌求錢陌所以不深於法也草曰九十
+  hash: sha256:b8a8a95850237c594d6fb8c5ae974e6d4e28ae3a89ef4be2bc687e3f3dfda4a0
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:0f6aa39034d33a9669391a3d3d6b960c85ff3b389b7de69d9aedbd38a8795892

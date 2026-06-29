@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解題菽麥為問分身為法分率術曰共物為實以賤率乘之俱為賤價以减總錢餘為貴實貴物所多之數貴賤二率相减餘為法求見一價所多之差除之先見貴物以貴物减總數餘為賤也草曰共物為實菽麥共三百石以賤率乘之菽賤每石七百八十五文乘得二百三十五貫五百文以减總錢二百九十七貫餘為貴實六十一貫五百貴賤二率相减餘為法菽石價七百八十五麥石價一貫一百六十相减餘三百七十五為法除之以法除六十一貫五百文先得貴物麥一百六十四石以貴物麥也减總數菽麥總數餘為賤實菽得
+  hash: sha256:35bfb52c4acd17ec56e0908140057f99feb1f61a5f858e32069844132304e5df
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:362584a011299dcfd5df8ceb2a2dd634ec7f2b376c47efde89e72860b8b3b669

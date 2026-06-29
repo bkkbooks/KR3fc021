@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上得六十三萬中得四十八萬下得六百萬各為實次列原造弓八張刀五副箭一百五十隻扵中行又列見管弓作二百人刀作五百四十人箭作二百七十六人扵左行以兩行對乗之上得一千六百中得二千七百下得四萬一千四百各為法
+  hash: sha256:575bdfd029e3f26d6d02b179b45d68649a514a8cca151c5cdb8bb6a683764980
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:bc9fc86d3c93a4b084133884858a0c47f42a9f0e7f3e92044fcba26ad7ab52ea

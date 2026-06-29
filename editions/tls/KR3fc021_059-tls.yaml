@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc021/tls/v1/juan/59
+seq: 59
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先以上法一千六百除寄右行弓日實六十三萬日得三百九十三日造弓一萬張日數不盡一千二百與法求等得四百俱約之為四分日之三次以中法二千七百除寄右行刀日實四十八萬日得一百七十七日為造刀一萬副日數
+  hash: sha256:cda5a5215a60a521aca220b8bf6683d5dcec441bf0e4dea966110204551ccaf9
+metadata:
+  title: 算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc021.xml
+hash: sha256:4a0938f03332e896f595dc10e9447d4f4d2b99f9bdb66a9f0d3f2f9498fac566

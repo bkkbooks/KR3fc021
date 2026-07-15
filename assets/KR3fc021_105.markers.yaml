@@ -5,11 +5,15 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc021_tls_001-p26.s10.1}
   - {type: line-break, offset: 0, content: '', id: KX_10_dup25, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 4, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 6, content: 。, id: KR3fc021_tls_105-bkkpn1}
+  - {type: substitution, offset: 12, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 14, content: 。, id: KR3fc021_tls_105-bkkpn2}
   - {type: punctuation, offset: 18, content: 。, id: KR3fc021_tls_105-bkkpn3}
+  - {type: substitution, offset: 25, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: line-break, offset: 27, content: '', id: KR3fc021_tls_105-bkklb1}
   - {type: punctuation, offset: 43, content: 。, id: KR3fc021_tls_105-bkkpn4}
+  - {type: substitution, offset: 53, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc021_tls_001-p26.s11.1}
   - {type: line-break, offset: 54, content: '', id: KX_11_dup22, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: line-break, offset: 55, content: '', id: KR3fc021_tls_105-bkklb2}
@@ -18,4 +22,4 @@ markers:
   - {type: line-break, offset: 56, content: '', id: KX_17_dup22, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: xml-element, offset: 71, content: '', id: KR3fc021_tls_105-bkkxmlele1, name: p, role: close}
   back: []
-hash: sha256:3f3f799644733fcab1f91fe8748b360347984ec05eaf89fc37ce8ee4dd5e8b86
+hash: sha256:7456f90b2a550b2ff3cc769662794a5bd031c1aa913eabb556c199d6dd5ceea0

@@ -13,18 +13,21 @@ markers:
   - {type: punctuation, offset: 27, content: 。, id: KR3fc021_tls_056-bkkpn4}
   - {type: punctuation, offset: 30, content: 。, id: KR3fc021_tls_056-bkkpn5}
   - {type: punctuation, offset: 36, content: 。, id: KR3fc021_tls_056-bkkpn6}
+  - {type: substitution, offset: 36, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 39, content: 。, id: KR3fc021_tls_056-bkkpn7}
   - {type: line-break, offset: 47, content: '', id: KR3fc021_tls_056-bkklb1}
   - {type: punctuation, offset: 48, content: 。, id: KR3fc021_tls_056-bkkpn8}
   - {type: punctuation, offset: 55, content: 。, id: KR3fc021_tls_056-bkkpn9}
   - {type: punctuation, offset: 63, content: 。, id: KR3fc021_tls_056-bkkpn10}
+  - {type: substitution, offset: 63, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 66, content: 。, id: KR3fc021_tls_056-bkkpn11}
   - {type: 'tls:seg', offset: 66, content: '', id: KR3fc021_tls_001-p14.s16.1}
   - {type: line-break, offset: 66, content: '', id: KX_16_dup13, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 70, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: punctuation, offset: 72, content: 。, id: KR3fc021_tls_056-bkkpn12}
   - {type: punctuation, offset: 78, content: 。, id: KR3fc021_tls_056-bkkpn13}
   - {type: punctuation, offset: 84, content: 。, id: KR3fc021_tls_056-bkkpn14}
   - {type: punctuation, offset: 92, content: 。, id: KR3fc021_tls_056-bkkpn15}
   - {type: punctuation, offset: 95, content: 。, id: KR3fc021_tls_056-bkkpn16}
   back: []
-hash: sha256:e7016809e892a3d26d298c05c1953b7f329f71425e98ebf8ca50c6dd7ea49844
+hash: sha256:a814a5c6e5a66ea9de5401630f0ca46345bd8cf29414bbf2159f43cf3c5d0553
